@@ -1,0 +1,6 @@
+{
+  "allow_change": "is_leap.cpp",
+  "tests": "test_is_leap",
+  "solutions": "private"
+}
+ 

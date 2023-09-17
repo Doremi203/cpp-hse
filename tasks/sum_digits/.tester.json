@@ -1,0 +1,5 @@
+{
+  "allow_change": "sum_digits.cpp",
+  "tests": "test_sum_digits",
+  "solutions": "private"
+}

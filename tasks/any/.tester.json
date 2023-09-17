@@ -1,0 +1,6 @@
+{
+    "allow_change": "any.*",
+    "tests": "test_any",
+    "solutions": "private",
+    "forbidden_regexp": ["void\\s*[*]", "any"]
+}

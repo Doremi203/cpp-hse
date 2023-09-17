@@ -1,0 +1,5 @@
+{
+  "allow_change": "copy.h",
+  "tests": "test_copy",
+  "solutions": "private"
+}

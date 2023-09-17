@@ -1,0 +1,1 @@
+add_catch(test_is_leap test.cpp is_leap.cpp)

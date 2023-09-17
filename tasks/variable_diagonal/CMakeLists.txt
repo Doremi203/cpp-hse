@@ -1,0 +1,1 @@
+add_catch(test_variable_diagonal test.cpp variable_diagonal.cpp)

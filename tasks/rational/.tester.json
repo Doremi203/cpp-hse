@@ -1,0 +1,5 @@
+{
+  "allow_change": "rational.cpp",
+  "tests": "test_rational",
+  "solutions": "private"
+}

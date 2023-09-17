@@ -1,0 +1,5 @@
+{
+    "allow_change": "range.cpp",
+    "tests": "test_range",
+    "solutions": "private"
+}

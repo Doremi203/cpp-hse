@@ -1,0 +1,5 @@
+{
+  "allow_change": "fibonacci.cpp",
+  "tests": "test_fibonacci",
+  "solutions": "private"
+}

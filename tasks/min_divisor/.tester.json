@@ -1,0 +1,5 @@
+{
+  "allow_change": "min_divisor.cpp",
+  "tests": "test_min_divisor",
+  "solutions": "private"
+}

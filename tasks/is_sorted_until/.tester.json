@@ -1,0 +1,5 @@
+{
+  "allow_change": "is_sorted_until.h",
+  "tests": "test_is_sorted_until",
+  "solutions": "private"
+}

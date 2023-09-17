@@ -1,0 +1,5 @@
+{
+  "allow_change": "array.h",
+  "tests": "test_array",
+  "solutions": "private"
+}

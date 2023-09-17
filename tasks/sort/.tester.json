@@ -1,0 +1,5 @@
+{
+  "allow_change": "sort.h",
+  "tests": "test_sort",
+  "solutions": "private"
+}

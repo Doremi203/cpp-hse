@@ -1,0 +1,5 @@
+{
+  "allow_change": "stack.cpp",
+  "tests": "test_stack",
+  "solutions": "private"
+}

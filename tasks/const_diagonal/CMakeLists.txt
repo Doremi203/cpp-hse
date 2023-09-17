@@ -1,0 +1,1 @@
+add_catch(test_const_diagonal test.cpp const_diagonal.cpp)

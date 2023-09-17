@@ -1,0 +1,5 @@
+{
+  "allow_change": "cstring.cpp",
+  "tests": "test_cstring",
+  "solutions": "private"
+}

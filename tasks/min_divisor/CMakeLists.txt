@@ -1,0 +1,1 @@
+add_catch(test_min_divisor test.cpp min_divisor.cpp)

@@ -1,0 +1,5 @@
+{
+  "allow_change": "unordered_set.h",
+  "tests": "test_unordered_set",
+  "solutions": "private"
+}

@@ -1,0 +1,10 @@
+{
+    "allow_change": "unique_ptr.h",
+    "tests": "test_unique_ptr",
+    "forbidden_regexp": [
+        "std\\s*::\\s*unique_ptr",
+        "#include\\s*<memory>"
+    ],
+    "solutions": "private"
+}
+

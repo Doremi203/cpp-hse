@@ -1,0 +1,5 @@
+{
+  "allow_change": "variable_diagonal.cpp",
+  "tests": "test_variable_diagonal",
+  "solutions": "private"
+}

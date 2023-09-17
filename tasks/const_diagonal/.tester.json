@@ -1,0 +1,5 @@
+{
+  "allow_change": "const_diagonal.cpp",
+  "tests": "test_const_diagonal",
+  "solutions": "private"
+}

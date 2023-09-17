@@ -1,0 +1,5 @@
+{
+  "allow_change": "provinces.cpp",
+  "tests": "test_provinces",
+  "solutions": "private"
+}

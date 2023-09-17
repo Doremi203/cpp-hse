@@ -1,0 +1,5 @@
+{
+  "allow_change": "caesar_cipher.cpp",
+  "tests": "test_caesar_cipher",
+  "solutions": "private"
+}

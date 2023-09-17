@@ -1,0 +1,5 @@
+{
+  "allow_change": "hypotenuse.cpp",
+  "tests": "test_hypotenuse",
+  "solutions": "private"
+}

@@ -1,0 +1,5 @@
+{
+  "allow_change": "next_even.cpp",
+  "tests": "test_next_even",
+  "solutions": "private"
+}

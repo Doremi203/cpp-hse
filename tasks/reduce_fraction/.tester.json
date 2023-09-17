@@ -1,0 +1,5 @@
+{
+  "allow_change": "reduce_fraction.cpp",
+  "tests": "test_reduce_fraction",
+  "solutions": "private"
+}

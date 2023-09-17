@@ -1,0 +1,5 @@
+{
+  "allow_change": "chocolate.cpp",
+  "tests": "test_chocolate",
+  "solutions": "private"
+}

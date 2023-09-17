@@ -1,0 +1,5 @@
+{
+  "allow_change": "unique.h",
+  "tests": "test_unique",
+  "solutions": "private"
+}

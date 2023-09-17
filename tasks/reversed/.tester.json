@@ -1,0 +1,5 @@
+{
+  "allow_change": "rotate.h",
+  "tests": "test_reversed",
+  "solutions": "private"
+}
